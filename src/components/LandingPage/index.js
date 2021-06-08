@@ -20,7 +20,6 @@ function LandingPage() {
     const [isSubmitClicked, setIsSubmitClicked] = useState(false);
     const [quit, setQuit] = useState(false);
     const [errorMessage, setErrorMessage] = useState('');
-    const [isRepeating, setIsRepeating] = useState(false);
     const [encouragingMessage] = useState('Come on, you can do it ✌🏻');
 
     useEffect(() => {

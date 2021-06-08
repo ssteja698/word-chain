@@ -63,6 +63,7 @@ button {
   border: 1px solid lightgrey;
   cursor: pointer;
   &.primary {
+    width: 140px;
     color: white;
     background-color: rgb(16, 112, 80);
   }

@@ -45,7 +45,7 @@ function LandingPage() {
     }
 
     const handleSubmit = () => {
-        if (englishWordList.indexOf(nextWord) < 0) {
+        if (englishWordList.indexOf(nextWord.toLowerCase()) < 0) {
             setErrorMessage("The spelling of the entered word is wrong! (or it's not in the list of well-known words)");
             setQuit(true);
             setNextWord('');

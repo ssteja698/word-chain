@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  padding: 20px;
+  width: 90%;
+  margin: 20px auto;
+  height: 90vh;
+  color: rgb(71, 73, 53);
+  background-color: ivory;
+  box-shadow: 10px 10px 5px grey;
 }
 
 .App-logo {

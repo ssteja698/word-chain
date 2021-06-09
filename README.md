@@ -1,4 +1,4 @@
-## This project is about *Word Chain Game* using *React JS*
+## This project is about *`Word Chain Game`* using *`React JS`*
 
 ### The game goes in the following steps:
 1. The game randomly chooses a color name 🌈 as the starting word.
@@ -7,4 +7,4 @@
 
 ### This game also consists of few CSS animations which make it even more interesting! 🥳
 
-### To open this game, go into Environment section and click on View Deployment. With that, you will be good to go 😀
+### To open this game, go into `Environments` section and click on `View deployment`. With that, you will be good to go 😀

@@ -65,12 +65,12 @@ button {
   &.primary {
     width: 140px;
     color: white;
-    background-color: rgb(16, 112, 80);
+    background-color: rgb(12, 92, 65);
   }
   &.submit {
     height: 33px;
     color: white;
-    background-color: rgb(51, 177, 109);
+    background-color: rgb(48, 161, 73);
   }
   &:disabled {
     opacity: 0.5;
@@ -110,7 +110,7 @@ button {
     width: fit-content;
     padding: 5px;
     border-radius: 5px;
-    background-color: rgb(145, 241, 241);
+    background-image: linear-gradient(to bottom right, rgb(145, 241, 241), rgb(138, 253, 138));
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     span {
       color: rgb(211, 84, 11);

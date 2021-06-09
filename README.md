@@ -6,3 +6,5 @@
 3. Participant gets the score increased by 20 points 🤑 on each correct attempt.
 
 ### This game also consists of few CSS animations which make it even more interesting! 🥳
+
+### To open this game, go into Environment section and click on View Deployment. With that, you will be good to go 😀
